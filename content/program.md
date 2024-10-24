@@ -450,4 +450,4 @@ Specific concepts covered will include pre-trained vision transformers for movem
 
 Check out the session's materials on GitHub. +++ Explore {fas}arrow-right :::
 
-:::{grid-item-card} :margin: 3 :columns: 12 6 3 3 :class-header: bg-light text-center :link: [https://docs.google.com/presentation/d/1RV6c8Xf3fwHTJF55TMwROoDzgoR5ujyXoSV3-i1eU08/edit?usp=sharing](https://github.com/quietscientist/Foundation_Models_Primer_MAIN2024EDU.git)
+:::{grid-item-card} :margin: 3 :columns: 12 6 3 3 :class-header: bg-light text-center :link: [foundation movement model primer](https://github.com/quietscientist/Foundation_Models_Primer_MAIN2024EDU.git)
